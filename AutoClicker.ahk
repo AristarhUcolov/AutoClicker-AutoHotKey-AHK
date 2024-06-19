@@ -1,0 +1,3 @@
+﻿SPACE::
+Click, left ;
+Return
